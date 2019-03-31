@@ -1,0 +1,71 @@
+/*MAIN PAGE*/
+.navigation-bar{
+	background-color:darkblue;
+	padding-left:1%;
+	margin:0;
+	color:white;
+	font-size:1.5rem;
+	height: 6rem;
+	padding-top: 0.05rem;
+	font-family: "Helvetica","Courier New","Comic Sans MS","Serif";
+}
+img{
+	margin-top:1%;
+	height:570px;
+	width:810px;
+	margin-bottom: 1%;
+}
+.login-form{
+	border:solid 3px darkblue;
+	padding:5%;
+	background-color: whitesmoke;
+}
+.heading{
+	color:darkblue;
+	font-size:1.75rem;
+	padding:2%;
+}
+.labels{
+	font-weight: bold;
+	font-size:1.2rem;
+	padding:1%;
+}
+.grp{
+	margin-bottom:4%;
+}
+
+/*INSTRUCTIONS PAGE*/
+.main-content{
+	margin:4% 10% 5% 10%;
+	font-family: "Helvetica","Courier New","Comic Sans MS","Serif";
+	width:80%;
+}
+.main-heading{
+	color:teal;
+	font-size:2.8rem;
+	font-weight:bold;
+	padding:1%;
+	padding-bottom:0%;
+	text-align:center;
+}
+.content{
+	border-top:solid 3px teal;
+	padding-top:1px;
+	background:#efeee0;
+	line-height:2.5;
+}
+.highlighters{
+	color:red;
+	font-family:bold;
+	font-size:1.2rem;
+}
+input{
+	margin:2%;
+}
+button{
+	margin-left: 40%;
+	margin-bottom:5%;
+	margin-top:5%;
+}
+
+/*QUESTION PAGE*/
